@@ -3,10 +3,6 @@
 ```java
 System.out.println("호롤로롤롤로롤로");
 ```
-| 학번 | 이름 |
-|----|----|
-|1206|김수현|
-|2106|김수현|
 
 [홈페이지가기](https://wander0220.github.io.com)
 ![애기성진](babySungjin.png)
