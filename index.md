@@ -4,7 +4,7 @@
 System.out.println("호롤로롤롤로롤로");
 ```
 
-[홈페이지가기](https://wander0220.github.io.com)
+[홈페이지가기](https://wander0220.github.io/)
 ![애기성진](babySungjin.png)
 
 You can use the [editor on GitHub](https://github.com/wander0220/wander0220.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
